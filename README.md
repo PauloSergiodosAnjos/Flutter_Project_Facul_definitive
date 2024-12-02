@@ -11,7 +11,7 @@
 
 
 ### Dados App
-- Link Video - 
+- Link Video - https://www.youtube.com/watch?v=rzzogdyb2NI&t=132s
 
 
 ### Requisitos do Aplicativo de To-Do List e Lembretes
